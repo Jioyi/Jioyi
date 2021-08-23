@@ -61,21 +61,21 @@
   
 <h1 align="center">
   
-<a href="https://www.linkedin.com/in/carlos-agreda/">
+<a target="_blank" href="https://www.linkedin.com/in/carlos-agreda/">
   <img align="center" 
        alt="Linkdein" 
        width="30px" 
        src="./icons/linledin.webp" />
   </a>
 
-  <a href="https://www.facebook.com/karlosalberto24/">
+  <a target="_blank" href="https://www.facebook.com/karlosalberto24/">
   <img align="center" 
        alt="Facebook" 
        width="30px" 
        src="./icons/facebook.png" />
   </a>
   
-<a href="mailto:karlosagreda@hotmail.com">
+<a target="_blank" href="mailto:karlosagreda@hotmail.com">
   <img align="center" 
        alt="Hotmail" 
        width="30px" 
